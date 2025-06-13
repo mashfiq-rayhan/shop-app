@@ -1,4 +1,4 @@
-# Shopmate API
+# Shop APP
 
 Shopmate API is a modern, scalable, and secure e-commerce backend built with **TypeScript**, **Express.js**, and **Prisma ORM** for PostgreSQL. It provides robust user authentication, modular architecture, and best practices for maintainability and extensibility.
 
