@@ -57,7 +57,7 @@ prisma/
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/ShaNaim/shopmate.git
+   git clone https://github.com/mashfiq-rayhan/shop-app.git
    cd shopmate
    ```
 
